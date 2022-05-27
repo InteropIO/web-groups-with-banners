@@ -1,0 +1,9 @@
+{
+    "name": "state-app",
+    "title": "State app",
+    "type": "window",
+    "details": {
+        "mode":"flat",
+        "url": "http://localhost:3001"
+    }
+}
